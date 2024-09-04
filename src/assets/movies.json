@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "yearOfRelease": "1 / 10 / 2008",
+        "director": {
+            "name": "Jon Favreau",
+            "age": 55,
+            "dateOfBirth": "10/19/1966"
+        },
+        "posterURL": "https://fwcdn.pl/fpo/25/41/122541/7885686_1.3.jpg",
+        "trailer": "trailers/ironman1.mp4",
+        "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "producer": {
+            "name": "Kevin Feige",
+            "age": 51,
+            "dateOfBirth": "02/06/1973"
+        },
+
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "actors": [
+            {
+                "name": "Robert Downey Jr.",
+                "age": 56,
+                "dateOfBirth": "04/04/1965"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "age": 49,
+                "dateOfBirth": "09/27/1972"
+            },
+            {
+                "name": "Terrence Howard",
+                "age": 52,
+                "dateOfBirth": "03/11/1969"
+            },
+            {
+                "name": "John Favreau",
+                "age": 57,
+                "dateOfBirth": "10/19/1966"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "The Incredible Hulk",
+        "yearOfRelease": "1 / 10 / 2008",
+        "director": {
+            "name": "Louis Leterrier",
+            "age": 48,
+            "dateOfBirth": "06/17/1973"
+        },
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg",
+        "trailer": "trailers/hulk.mp4",
+        "plot": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+        "producer": {
+            "name": "Kevin Feige",
+            "age": 51,
+            "dateOfBirth": "02/06/1973"
+        },
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "actors": [
+            {
+                "name": "Edward Norton",
+                "age": 52,
+                "dateOfBirth": "08/18/1969"
+            },
+            {
+                "name": "Liv Tyler",
+                "age": 44,
+                "dateOfBirth": "07/01/1977"
+            },
+            {
+                "name": "Tim Roth",
+                "age": 60,
+                "dateOfBirth": "05/14/1961"
+            },
+            {
+                "name": "William Hurt",
+                "age": 71,
+                "dateOfBirth": "03/20/1949"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "inside Out 2",
+        "yearOfRelease": "1 / 10 / 2024",
+        "director": {
+            "name": "Pete Docter",
+            "age": 52,
+            "dateOfBirth": "10/09/1968"
+        },
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "trailer": "trailers/insideout2.mp4",
+        "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "producer": {
+            "name": "Jonas Rivera",
+            "age": 49,
+            "dateOfBirth": "02/14/1972"
+        },
+        "genres": ["Animation", "Adventure", "Comedy"],
+        "actors": [
+            {
+                "name": "Amy Poehler",
+                "age": 50,
+                "dateOfBirth": "09/16/1971"
+            },
+            {
+                "name": "Phyllis Smith",
+                "age": 70,
+                "dateOfBirth": "07/10/1951"
+            },
+            {
+                "name": "Richard Kind",
+                "age": 64,
+                "dateOfBirth": "11/22/1956"
+            },
+            {
+                "name": "Bill Hader",
+                "age": 43,
+                "dateOfBirth": "06/07/1978"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Saw 3",
+        "yearOfRelease": "1 / 10 / 2004",
+        "director": {
+            "name": "James Wan",
+            "age": 44,
+            "dateOfBirth": "02/26/1977"
+        },
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMjMxMDBiZWItNDk1NS00ODJkLTlkMmEtNjI0OWQ2NDJkNDQxXkEyXkFqcGdeQXVyMTY2MjE4Njc1._V1_FMjpg_UX1000_.jpg",
+        "trailer": "trailers/saw3.mp4",
+        "plot": "Two strangers awaken in a room with no recollection of how they got there, and soon discover theyre pawns in a deadly game perpetrated by a notorious serial killer.",
+        "producer": {
+            "name": "Mark Burg",
+            "age": 63,
+            "dateOfBirth": "12/09/1958"
+        },
+        "genres": ["Horror", "Mystery", "Thriller"],
+        "actors": [
+            {
+                "name": "Cary Elwes",
+                "age": 59,
+                "dateOfBirth": "10/26/1962"
+            },
+            {
+                "name": "Leigh Whannell",
+                "age": 44,
+                "dateOfBirth": "01/17/1977"
+            },
+            {
+                "name": "Danny Glover",
+                "age": 75,
+                "dateOfBirth": "07/22/1946"
+            },
+            {
+                "name": "Ken Leung",
+                "age": 51,
+                "dateOfBirth": "01/21/1970"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Spider man",
+        "yearOfRelease": "1 / 10 / 2002",
+        "director": {
+            "name": "Sam Raimi",
+            "age": 62,
+            "dateOfBirth": "10/23/1959"
+        },
+        "posterURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Spider-Man_%282002_film%29_poster.jpg/220px-Spider-Man_%282002_film%29_poster.jpg",
+        "trailer": "trailers/spiderman.mp4",
+        "plot": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+        "producer": {
+            "name": "Laura Ziskin",
+            "age": 61,
+            "dateOfBirth": "03/03/1950"
+        },
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "actors": [
+            {
+                "name": "Tobey Maguire",
+                "age": 46,
+                "dateOfBirth": "06/27/1975"
+            },
+            {
+                "name": "Kirsten Dunst",
+                "age": 39,
+                "dateOfBirth": "04/30/1982"
+            },
+            {
+                "name": "Willem Dafoe",
+                "age": 66,
+                "dateOfBirth": "07/22/1955"
+            },
+            {
+                "name": "James Franco",
+                "age": 43,
+                "dateOfBirth": "04/19/1978"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Iron man 2",
+        "yearOfRelease": "1 / 10 / 2010",
+        "director": {
+            "name": "Jon Favreau",
+            "age": 55,
+            "dateOfBirth": "10/19/1966"
+        },
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+        "trailer": "trailers/ironman2.mp4",
+        "plot": "Tony Stark is under pressure from various sources, including the government, to share his technology with the world. He must find a way to fight them while also tackling his other enemies.",
+        "producer": {
+            "name": "Kevin Feige",
+            "age": 51,
+            "dateOfBirth": "02/06/1973"
+        },
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "actors": [
+            {
+                "name": "Robert Downey Jr.",
+                "age": 56,
+                "dateOfBirth": "04/04/1965"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "age": 49,
+                "dateOfBirth": "09/27/1972"
+            },
+            {
+                "name": "Don Cheadle",
+                "age": 56,
+                "dateOfBirth": "11/29/1964"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "age": 36,
+                "dateOfBirth": "11/22/1984"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Thor",
+        "yearOfRelease": "1 / 10 / 2011",
+        "director": {
+            "name": "Kenneth Branagh",
+            "age": 60,
+            "dateOfBirth": "12/10/1960"
+        },
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+        "trailer": "trailers/thor.mp4",
+        "plot": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+        "producer": {
+            "name": "Kevin Feige",
+            "age": 51,
+            "dateOfBirth": "02/06/1973"
+        },
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "actors": [
+            {
+                "name": "Chris Hemsworth",
+                "age": 38,
+                "dateOfBirth": "08/11/1983"
+            },
+            {
+                "name": "Natalie Portman",
+                "age": 40,
+                "dateOfBirth": "06/09/1981"
+            },
+            {
+                "name": "Tom Hiddleston",
+                "age": 40,
+                "dateOfBirth": "02/09/1981"
+            },
+            {
+                "name": "Anthony Hopkins",
+                "age": 83,
+                "dateOfBirth": "12/31/1937"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "The Conjuring",
+        "yearOfRelease": "1 / 10 / 2013",
+        "director": {
+            "name": "James Wan",
+            "age": 44,
+            "dateOfBirth": "02/26/1977"
+        },
+        "posterURL": "https://musicart.xboxlive.com/7/8ac41100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "trailer": "trailers/theconjuring.mp4",
+        "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+        "producer": {
+            "name": "Rob Cowan",
+            "age": 57,
+            "dateOfBirth": "12/02/1964"
+        },
+        "genres": ["Horror", "Mystery", "Thriller"],
+        "actors": [
+            {
+                "name": "Vera Farmiga",
+                "age": 48,
+                "dateOfBirth": "08/06/1973"
+            },
+            {
+                "name": "Patrick Wilson",
+                "age": 48,
+                "dateOfBirth": "07/03/1973"
+            },
+            {
+                "name": "Lili Taylor",
+                "age": 54,
+                "dateOfBirth": "02/20/1967"
+            },
+            {
+                "name": "Ron Livingston",
+                "age": 54,
+                "dateOfBirth": "06/05/1967"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Fifty Shades of Grey",
+        "yearOfRelease": "1 / 10 / 2015",
+        "director": {
+            "name": "Sam Taylor-Johnson",
+            "age": 54,
+            "dateOfBirth": "03/04/1967"
+        },
+        "posterURL": "https://upload.wikimedia.org/wikipedia/en/7/73/Fifty_Shades_of_Grey_poster.jpg",
+        "trailer": "trailers/ironman1.mp4",
+        "plot": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+        "producer": {
+            "name": "Michael De Luca",
+            "age": 56,
+            "dateOfBirth": "08/13/1965"
+        },
+        "genres": ["Drama", "Romance", "Thriller"],
+        "actors": [
+            {
+                "name": "Dakota Johnson",
+                "age": 32,
+                "dateOfBirth": "10/04/1989"
+            },
+            {
+                "name": "Jamie Dornan",
+                "age": 39,
+                "dateOfBirth": "05/01/1982"
+            },
+            {
+                "name": "Jennifer Ehle",
+                "age": 52,
+                "dateOfBirth": "12/29/1969"
+            },
+            {
+                "name": "Eloise Mumford",
+                "age": 35,
+                "dateOfBirth": "09/24/1986"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "This movie is great"
+            },
+            {
+                "user": "Jane Doe",
+                "comment": "I love this movie"
+            }
+        ]
+    }
+]
